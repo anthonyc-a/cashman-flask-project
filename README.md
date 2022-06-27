@@ -5,7 +5,7 @@
 To run this application, you will need Python 3+ and [Pipenv](https://pipenv.readthedocs.io/en/latest/) installed locally. If you do, you can issue the following commands:
 
 ```bash
-# from the flask-restful-apis directory
+# from the flask-restful-api directory
 pipenv install
 ./bootstrap.sh 
 ```
